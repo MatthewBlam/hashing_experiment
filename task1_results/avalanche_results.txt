@@ -1,0 +1,20 @@
+Inputs: b'A' and b'@'
+Input Hamming distance: 1 bit
+First digest:  559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd
+Second digest: c3641f8544d7c02f3580b07c0f9887f0c6a27ff5ab1d4a3e29caf197cfc299ae
+Different digest bits: 136/256
+Different digest bytes: 32/32
+
+Inputs: b'hello' and b'iello'
+Input Hamming distance: 1 bit
+First digest:  2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824
+Second digest: db365f3eb197faeb1fc6a4038f04bdc5c0bf4185e63bc72eb50013bc122c5377
+Different digest bits: 135/256
+Different digest bytes: 32/32
+
+Inputs: b'computer security' and b'bomputer security'
+Input Hamming distance: 1 bit
+First digest:  a97b84e295de545881d2915211fe240589b2475d90025e61acf7206a2c17a057
+Second digest: 1046704a0f56e921fa4f0c50f5ee0ba0f8be2d37e2bc0cdd044df766d2ba1bad
+Different digest bits: 138/256
+Different digest bytes: 32/32
